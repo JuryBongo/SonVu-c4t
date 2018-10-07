@@ -1,0 +1,12 @@
+#wrap {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .square {
+    margin: 10px 10px;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+  }
